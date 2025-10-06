@@ -28,7 +28,7 @@
 -  Se lance normalement depuis l'exe. Attention cependant à vos antivirus qui peuvent empêcher le lancement de l'application, le code source est à votre disposition pour vérifier son contenu.
 - Si vous avez *gcc* sur votre Windows, placez-vous dans le dossier de la version souhaitée depuis votre terminal et entrez cette commande pour recompiler le programme afin de s'assurer de son bon fonctionnement :
 ```bash
-  cd C:\[...]\Cnake\v1\
+  cd C:\[...]\Ctris\v1\
   gcc main.c -o main
 ```
 ##### *Pour la version 2* - ![Badge OS](https://img.shields.io/badge/OS%20:-WINDOWS-GREEN?style=plastic)
